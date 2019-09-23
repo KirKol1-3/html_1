@@ -1,5 +1,9 @@
-.header {
-	margin: 10px;
-	background-color: #123;
-	min-height: 25px;
+body {
+	margin: 0 auto;
+	background-color: #F0F;
+	width: 970px;
+}
+
+h1 {
+	padding-left: 46%;
 }
